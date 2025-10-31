@@ -1,0 +1,7 @@
+declare(str1)
+str1(GEEGLE BEEGLE)
+print(@str1)
+
+declare(num1)
+num1(2)
+print(@num1)

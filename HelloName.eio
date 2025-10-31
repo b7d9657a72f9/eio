@@ -1,0 +1,15 @@
+declare <FirstName>
+
+declare <LastName>
+
+print <What is your name?>
+
+read <FirstName>
+
+print <Hello, @FirstName!>
+
+print <What is your last name?>
+
+read <LastName>
+
+print <Your full name is @FirstName @LastName.>
