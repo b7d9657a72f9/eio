@@ -10,7 +10,7 @@ class Beta2 {
         try (Scanner SourceReader = new Scanner(args[0])) {
 
         } catch (Exception e) {
-            System.out.println("An error occured.");
+            System.out.println("An error occured. :(");
             
         }
     }

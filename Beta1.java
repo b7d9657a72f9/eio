@@ -9,7 +9,7 @@ class Beta1 {
         System.out.println("EIO beta 1");
         System.out.println("Running file: " + SourceFile + ".");
         System.out.print("\n");
-
+        
         // Syntax characters
 
         // If you are using (, [, or {, you must surrond it in \\Q and \\E
