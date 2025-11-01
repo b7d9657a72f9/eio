@@ -1,2 +1,2 @@
-# EIO
+# Wooden
 A toy interpreted language.
