@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Eio {
+class Beta1 {
     static void interpret(String SourceFile) {
         // Startup message
         System.out.println("EIO beta 1");
